@@ -1,7 +1,3 @@
 .redItem {
-    text-decoration: red;
-}
-
-.blackItem {
-
+    color: red;
 }

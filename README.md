@@ -6,6 +6,8 @@
 - No element should be inserted if the text field is empty when the user clicks the button.
 - Every third element in the list must be displayed in red and the remaining elements in black.
 
+# How to use
+To use, just load the index.html file in your browser of choice (I used chrome).
 
 # Screenshots
 
